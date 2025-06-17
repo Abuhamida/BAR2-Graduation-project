@@ -47,17 +47,10 @@ smart-shopping-cart/
 ├── README.md              # Project documentation
 ```
 
-## 📸 Screenshots / Demo
-
-[video][https://drive.google.com/file/u/0/d/1nQub6-MFoiFiLvgXKkEJPIKgzGiim87u/view]
-
-[Cart][https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/images/deploy(images)/cart.jpg]
-
-[Map][https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/images/deploy(images)/map.png]
-
-[add product][https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/images/deploy(images)/product.jpg]
-
-
+- [Video Demo](https://drive.google.com/file/u/0/d/1nQub6-MFoiFiLvgXKkEJPIKgzGiim87u/view)
+- [Cart View](https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/deploy(images)/cart.jpg)
+- [Indoor Map](https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/deploy(images)/map.png)
+- [Add Product](https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/deploy(images)/product.jpg)
 
 ## 🔧 Installation & Setup
 
