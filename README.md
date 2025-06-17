@@ -131,4 +131,8 @@ npm run dev
 
 ## 📜 License
 
-This project is for educational purposes. You may modify and build upon it.
+This project is currently under development with the intent of forming a commercial startup.  
+You are free to view the code and provide feedback, but **commercial use, redistribution, or replication is not permitted** without written permission from the authors.
+
+For collaboration, licensing, or partnership inquiries, please contact us directly.
+
