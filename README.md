@@ -49,7 +49,15 @@ smart-shopping-cart/
 
 ## 📸 Screenshots / Demo
 
-(Add images or a link to a demo video)
+[video][https://drive.google.com/file/u/0/d/1nQub6-MFoiFiLvgXKkEJPIKgzGiim87u/view]
+
+[Cart][https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/images/deploy(images)/cart.jpg]
+
+[Map][https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/images/deploy(images)/map.png]
+
+[add product][https://raw.githubusercontent.com/Abuhamida/BAR2-Graduation-project/main/images/deploy(images)/product.jpg]
+
+
 
 ## 🔧 Installation & Setup
 
@@ -128,6 +136,6 @@ npm run dev
 - Team Members: Mohamed AbuHamida, Faris Awad, Rowayda El Shaer, Amr Awad, Mariam Ghoniem, Mariam Eslam, Ahmed ElShafai, Mahmoud Afandi, Omer Mohamed, Mohamed Amr
 - Tools: Ultralytics YOLO, Supabase, Flutter, PyTorch, Next.js
 
-## 📄 License
+## 📜 License
 
 This project is for educational purposes. You may modify and build upon it.
