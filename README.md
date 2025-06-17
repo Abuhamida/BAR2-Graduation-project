@@ -125,7 +125,7 @@ npm run dev
 
 ## 🙏 Acknowledgements
 
-- Supervisor: Dr. Amany Surhan  
+- Supervisor: Dr. Amany Sarhan  
 - Team Members: Mohamed AbuHamida, Faris Awad, Rowayda El Shaer, Amr Awad, Mariam Ghoniem, Mariam Eslam, Ahmed ElShafai, Mahmoud Afandi, Omer Mohamed, Mohamed Amr
 - Tools: Ultralytics YOLO, Supabase, Flutter, PyTorch, Next.js
 
